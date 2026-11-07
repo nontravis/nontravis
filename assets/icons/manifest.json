@@ -1,0 +1,223 @@
+{
+  "Dart": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/dart/default.svg",
+    "light": {
+      "file": "assets/icons/dart.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/dart/default.svg",
+      "sha256": "8423e862bf0e51da0959ad1d3de4a0c5d777898e6d22d83796eb946e090857c8"
+    },
+    "dark": {
+      "file": "assets/icons/dart.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/dart/default.svg",
+      "sha256": "8423e862bf0e51da0959ad1d3de4a0c5d777898e6d22d83796eb946e090857c8"
+    }
+  },
+  "Flutter": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/flutter/default.svg",
+    "light": {
+      "file": "assets/icons/flutter.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/flutter/default.svg",
+      "sha256": "ae67e4eec7eed6a6580f7e63c71d17ba4125ffd85a8e9f30fe74b7a6e48916a7"
+    },
+    "dark": {
+      "file": "assets/icons/flutter.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/flutter/default.svg",
+      "sha256": "ae67e4eec7eed6a6580f7e63c71d17ba4125ffd85a8e9f30fe74b7a6e48916a7"
+    }
+  },
+  "Jaspr": {
+    "source": "https://cdn.jsdelivr.net/gh/schultek/jaspr@413ad06cb98d43c01cf30afa442c2ab1e4046ae3/assets/logo.svg",
+    "light": {
+      "file": "assets/icons/jaspr.svg",
+      "url": "https://cdn.jsdelivr.net/gh/schultek/jaspr@413ad06cb98d43c01cf30afa442c2ab1e4046ae3/assets/logo.svg",
+      "sha256": "e547e52d5fb111eafc33fee2d1bba55317c4cede4e28a27b6584fdc30dc883b5"
+    },
+    "dark": {
+      "file": "assets/icons/jaspr.svg",
+      "url": "https://cdn.jsdelivr.net/gh/schultek/jaspr@413ad06cb98d43c01cf30afa442c2ab1e4046ae3/assets/logo.svg",
+      "sha256": "e547e52d5fb111eafc33fee2d1bba55317c4cede4e28a27b6584fdc30dc883b5"
+    }
+  },
+  "Dart Frog": {
+    "source": "https://cdn.jsdelivr.net/gh/VeryGoodOpenSource/dart_frog@5ebfa7d0bdfd68134d4e2cec72637f0445ffec31/docs/src/assets/dart-frog.svg",
+    "light": {
+      "file": "assets/icons/dart-frog.svg",
+      "url": "https://cdn.jsdelivr.net/gh/VeryGoodOpenSource/dart_frog@5ebfa7d0bdfd68134d4e2cec72637f0445ffec31/docs/src/assets/dart-frog.svg",
+      "sha256": "21b1633bebd77c1463362b7a034a3a30176d67463c0166f2aa8e9f9c12724c52"
+    },
+    "dark": {
+      "file": "assets/icons/dart-frog.svg",
+      "url": "https://cdn.jsdelivr.net/gh/VeryGoodOpenSource/dart_frog@5ebfa7d0bdfd68134d4e2cec72637f0445ffec31/docs/src/assets/dart-frog.svg",
+      "sha256": "21b1633bebd77c1463362b7a034a3a30176d67463c0166f2aa8e9f9c12724c52"
+    }
+  },
+  "Directus": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/directus/default.svg",
+    "light": {
+      "file": "assets/icons/directus.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/directus/default.svg",
+      "sha256": "ca1542dfcad1903f6bab41ffa0ff3561fed5d2b611e3e264a6961c732cc0e0bb"
+    },
+    "dark": {
+      "file": "assets/icons/directus.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/directus/default.svg",
+      "sha256": "ca1542dfcad1903f6bab41ffa0ff3561fed5d2b611e3e264a6961c732cc0e0bb"
+    }
+  },
+  "PostgreSQL": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/postgresql/default.svg",
+    "light": {
+      "file": "assets/icons/postgresql.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/postgresql/default.svg",
+      "sha256": "dc6bb4376a5cf235b19a8871f3219c2b98d97e4469309c8bbecb86ff1811f506"
+    },
+    "dark": {
+      "file": "assets/icons/postgresql.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/postgresql/default.svg",
+      "sha256": "dc6bb4376a5cf235b19a8871f3219c2b98d97e4469309c8bbecb86ff1811f506"
+    }
+  },
+  "MongoDB": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/mongodb/default.svg",
+    "light": {
+      "file": "assets/icons/mongodb.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/mongodb/default.svg",
+      "sha256": "43c4f5a1261601683e1403e9f4a5497b6fe0ee17448b5b12dfb289e7b637b770"
+    },
+    "dark": {
+      "file": "assets/icons/mongodb.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/mongodb/default.svg",
+      "sha256": "43c4f5a1261601683e1403e9f4a5497b6fe0ee17448b5b12dfb289e7b637b770"
+    }
+  },
+  "Redis": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/redis/default.svg",
+    "light": {
+      "file": "assets/icons/redis.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/redis/default.svg",
+      "sha256": "0588a304be52b7a96f531268ea68624d504d4c93175e41d2feba7bce9ae22fbb"
+    },
+    "dark": {
+      "file": "assets/icons/redis.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/redis/default.svg",
+      "sha256": "0588a304be52b7a96f531268ea68624d504d4c93175e41d2feba7bce9ae22fbb"
+    }
+  },
+  "Docker": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/docker/default.svg",
+    "light": {
+      "file": "assets/icons/docker.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/docker/default.svg",
+      "sha256": "29e91bf0593f02cf32efc849f2e9707dfddd4684b4d72b2a2b6a89da9626c60d"
+    },
+    "dark": {
+      "file": "assets/icons/docker.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/docker/default.svg",
+      "sha256": "29e91bf0593f02cf32efc849f2e9707dfddd4684b4d72b2a2b6a89da9626c60d"
+    }
+  },
+  "GitHub Actions": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/github-actions/default.svg",
+    "light": {
+      "file": "assets/icons/github-actions.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/github-actions/default.svg",
+      "sha256": "68e27a7570b9e0f18a1f85d84d211f3328d845dfac8ce7e101ec16576c67db5b"
+    },
+    "dark": {
+      "file": "assets/icons/github-actions.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/github-actions/default.svg",
+      "sha256": "68e27a7570b9e0f18a1f85d84d211f3328d845dfac8ce7e101ec16576c67db5b"
+    }
+  },
+  "Railway": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/railway/default.svg",
+    "light": {
+      "file": "assets/icons/railway-light.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/railway/light.svg",
+      "sha256": "3e22cde367ddca01e9b78fb3a2f7288c9cc72fb76ef0133a6a6600cef7ca9057"
+    },
+    "dark": {
+      "file": "assets/icons/railway-dark.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/railway/dark.svg",
+      "sha256": "e9141826a7590b6bfbd159f3b31539429915840ad04b80bf3eb40cf44dc65f2f"
+    }
+  },
+  "Cloudflare": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/cloudflare/default.svg",
+    "light": {
+      "file": "assets/icons/cloudflare.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/cloudflare/default.svg",
+      "sha256": "b8dff311e8041942b6006c907fd44c5f3ae941bd88ec650e552fe3f727f5139c"
+    },
+    "dark": {
+      "file": "assets/icons/cloudflare.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/cloudflare/default.svg",
+      "sha256": "b8dff311e8041942b6006c907fd44c5f3ae941bd88ec650e552fe3f727f5139c"
+    }
+  },
+  "PostHog": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/posthog/default.svg",
+    "light": {
+      "file": "assets/icons/posthog.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/posthog/default.svg",
+      "sha256": "54c004d868ac117fd0abfabbce4571bc27040ee2f17cb49657581a1673877a26"
+    },
+    "dark": {
+      "file": "assets/icons/posthog.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/posthog/default.svg",
+      "sha256": "54c004d868ac117fd0abfabbce4571bc27040ee2f17cb49657581a1673877a26"
+    }
+  },
+  "Umami": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/umami/default.svg",
+    "light": {
+      "file": "assets/icons/umami-light.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/umami/default.svg",
+      "sha256": "0de04d4c1dc2e452b5fa0d06a22011dfad139dee78be28b16d1d130abc3042a5"
+    },
+    "dark": {
+      "file": "assets/icons/umami-dark.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/umami/default.svg",
+      "sha256": "8f6bc43bd22bb8dff9263a36ccc84935dbe233c2dc53338026d2d4d2706d91f9"
+    }
+  },
+  "New Relic": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/new-relic/default.svg",
+    "light": {
+      "file": "assets/icons/new-relic.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/new-relic/default.svg",
+      "sha256": "1f97eebcc838eda26067c0db23bc691f8ae9248b2524b026e73cfa254064fe3f"
+    },
+    "dark": {
+      "file": "assets/icons/new-relic.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/new-relic/default.svg",
+      "sha256": "1f97eebcc838eda26067c0db23bc691f8ae9248b2524b026e73cfa254064fe3f"
+    }
+  },
+  "Figma": {
+    "source": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/figma/default.svg",
+    "light": {
+      "file": "assets/icons/figma.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/figma/default.svg",
+      "sha256": "5bcdea3417293412845b8298fe357fce3b192e8ff112d9b3fef315bc5cd127f6"
+    },
+    "dark": {
+      "file": "assets/icons/figma.svg",
+      "url": "https://cdn.jsdelivr.net/npm/@thesvg/static@4.0.4/dist/svg/figma/default.svg",
+      "sha256": "5bcdea3417293412845b8298fe357fce3b192e8ff112d9b3fef315bc5cd127f6"
+    }
+  },
+  "Keynote": {
+    "source": "https://help.apple.com/assets/69B2FCEFAEC3CD09E805F297/69B2FCF1AEC3CD09E805F29D/th_TH/f2992f9946cd2418099cefa5f330d11d.png",
+    "light": {
+      "file": "assets/icons/keynote.png",
+      "url": "https://help.apple.com/assets/69B2FCEFAEC3CD09E805F297/69B2FCF1AEC3CD09E805F29D/th_TH/f2992f9946cd2418099cefa5f330d11d.png",
+      "sha256": "a7172c8d8504750366acde6a1658a2bc53e140cb1e369ffdb90b4564955a64c4"
+    },
+    "dark": {
+      "file": "assets/icons/keynote.png",
+      "url": "https://help.apple.com/assets/69B2FCEFAEC3CD09E805F297/69B2FCF1AEC3CD09E805F29D/th_TH/f2992f9946cd2418099cefa5f330d11d.png",
+      "sha256": "a7172c8d8504750366acde6a1658a2bc53e140cb1e369ffdb90b4564955a64c4"
+    }
+  }
+}
