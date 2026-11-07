@@ -27,14 +27,16 @@
 </picture>
 </p>
 
+<!-- COMMITS:START -->
 <p>
-<a href="https://github.com/nontravis?tab=repositories">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-dark.svg">
-  <img alt="Where my commits went this year" src="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-light.svg">
-</picture>
-</a>
+<a href="https://github.com/nontravis?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-header-dark.svg"><img alt="Created 3,057 commits in 9 repositories" src="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-header-light.svg"></picture></a><br>
+<a href="https://github.com/nontravis/stratum_flutter_ui"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-row-1-dark.svg"><img alt="nontravis/stratum_flutter_ui: 1,340 commits" src="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-row-1-light.svg"></picture></a><br>
+<a href="https://github.com/nontravis/specstone"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-row-2-dark.svg"><img alt="nontravis/specstone: 695 commits" src="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-row-2-light.svg"></picture></a><br>
+<a href="https://github.com/Nextzy/dart-falconx"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-row-3-dark.svg"><img alt="Nextzy/dart-falconx: 617 commits" src="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-row-3-light.svg"></picture></a><br>
+<a href="https://github.com/Nextzy/flutter-falconx"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-row-4-dark.svg"><img alt="Nextzy/flutter-falconx: 155 commits" src="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-row-4-light.svg"></picture></a><br>
+<a href="https://github.com/Nextzy/jaspr-falconx"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-row-5-dark.svg"><img alt="Nextzy/jaspr-falconx: 154 commits" src="https://raw.githubusercontent.com/nontravis/nontravis/output/analytics-commits-row-5-light.svg"></picture></a>
 </p>
+<!-- COMMITS:END -->
 
 <p>
 <picture>
